@@ -27,6 +27,7 @@ input{
 }
 .searchbar{
     padding: 50px;
+    align-content: center;
     text-align: center;
 }
 .box{
